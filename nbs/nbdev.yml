@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fuzzlearn"
+  site-url: "https://ceshm.github.io/fuzzlearn"
+  description: "Fizz Buzz Learning"
+  repo-branch: main
+  repo-url: "https://github.com/ceshm/fuzzlearn"
